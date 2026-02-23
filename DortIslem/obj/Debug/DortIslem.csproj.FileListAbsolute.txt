@@ -1,0 +1,7 @@
+C:\Users\selin\Desktop\Kamp\DortIslem\obj\Debug\DortIslem.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\Kamp\DortIslem\obj\Debug\DortIslem.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\Kamp\DortIslem\bin\Debug\DortIslem.exe.config
+C:\Users\selin\Desktop\Kamp\DortIslem\bin\Debug\DortIslem.exe
+C:\Users\selin\Desktop\Kamp\DortIslem\bin\Debug\DortIslem.pdb
+C:\Users\selin\Desktop\Kamp\DortIslem\obj\Debug\DortIslem.exe
+C:\Users\selin\Desktop\Kamp\DortIslem\obj\Debug\DortIslem.pdb

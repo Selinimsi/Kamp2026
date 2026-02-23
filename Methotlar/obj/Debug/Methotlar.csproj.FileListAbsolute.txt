@@ -1,0 +1,7 @@
+C:\Users\selin\Desktop\Kamp\Methotlar\bin\Debug\Methotlar.exe.config
+C:\Users\selin\Desktop\Kamp\Methotlar\bin\Debug\Methotlar.exe
+C:\Users\selin\Desktop\Kamp\Methotlar\bin\Debug\Methotlar.pdb
+C:\Users\selin\Desktop\Kamp\Methotlar\obj\Debug\Methotlar.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\Kamp\Methotlar\obj\Debug\Methotlar.exe
+C:\Users\selin\Desktop\Kamp\Methotlar\obj\Debug\Methotlar.pdb
+C:\Users\selin\Desktop\Kamp\Methotlar\obj\Debug\Methotlar.csproj.AssemblyReference.cache
