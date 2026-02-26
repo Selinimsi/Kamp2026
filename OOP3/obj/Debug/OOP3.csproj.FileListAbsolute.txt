@@ -1,0 +1,7 @@
+C:\Users\selin\Desktop\Kamp\OOP3\bin\Debug\OOP3.exe.config
+C:\Users\selin\Desktop\Kamp\OOP3\bin\Debug\OOP3.exe
+C:\Users\selin\Desktop\Kamp\OOP3\bin\Debug\OOP3.pdb
+C:\Users\selin\Desktop\Kamp\OOP3\obj\Debug\OOP3.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\Kamp\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\Kamp\OOP3\obj\Debug\OOP3.exe
+C:\Users\selin\Desktop\Kamp\OOP3\obj\Debug\OOP3.pdb
