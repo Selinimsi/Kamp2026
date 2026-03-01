@@ -8,3 +8,4 @@ Select * from Products order by UnitPrice desc
 select CategoryID,COUNT(*) from Products group by CategoryID
 select CategoryID,COUNT(*) from Products group by CategoryID having COUNT(*)<10
 select CategoryID,COUNT(*) from Products where UnitPrice>20 group by CategoryID having COUNT(*)<10
+
