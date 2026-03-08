@@ -1,0 +1,23 @@
+﻿using Entities.Concreate;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataAccess.Concreate.EntityFrameWork
+{//Context: Db tabloları ile proje kalsörlerini bağlar
+    public class NorthwindContext : DbContext
+    {
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database= MyDatabase;Trusted_Connection=True");
+        }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Category> Categories { get; set; }
+    
+    }
+    }
+

@@ -1,0 +1,14 @@
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\bin\Debug\Entities.dll
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\bin\Debug\Entities.pdb
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\selin\Desktop\Kamp\FinalProject\DataAccess\obj\Debug\DataAccess.pdb

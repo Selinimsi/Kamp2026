@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C96BD5-211F-4591-954A-FF69A03D62CB}|DataAccess\\DataAccess.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\dataaccess\\concreate\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C96BD5-211F-4591-954A-FF69A03D62CB}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concreate\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC09DBA-71F4-46E3-8EDB-411BA05CEDBC}|ConsoleUI2\\ConsoleUI2.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\consoleui2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC09DBA-71F4-46E3-8EDB-411BA05CEDBC}|ConsoleUI2\\ConsoleUI2.csproj|solutionrelative:consoleui2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\DataAccess\\Concreate\\EntityFrameWork\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concreate\\EntityFrameWork\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\DataAccess\\Concreate\\EntityFrameWork\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concreate\\EntityFrameWork\\NorthwindContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T12:17:45.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\ConsoleUI2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI2\\Program.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\ConsoleUI2\\Program.cs",
+              "RelativeToolTip": "ConsoleUI2\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T12:09:51.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
