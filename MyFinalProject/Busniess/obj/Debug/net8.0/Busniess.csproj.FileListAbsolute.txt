@@ -16,3 +16,5 @@ C:\Users\selin\Desktop\Kamp\MyFinalProject\Busniess\obj\Debug\net8.0\Busniess.dl
 C:\Users\selin\Desktop\Kamp\MyFinalProject\Busniess\obj\Debug\net8.0\refint\Busniess.dll
 C:\Users\selin\Desktop\Kamp\MyFinalProject\Busniess\obj\Debug\net8.0\Busniess.pdb
 C:\Users\selin\Desktop\Kamp\MyFinalProject\Busniess\obj\Debug\net8.0\ref\Busniess.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\Busniess\bin\Debug\net8.0\Core.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\Busniess\bin\Debug\net8.0\Core.pdb

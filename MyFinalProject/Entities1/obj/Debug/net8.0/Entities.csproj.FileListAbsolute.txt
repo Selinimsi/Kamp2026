@@ -10,3 +10,7 @@ C:\Users\selin\Desktop\Kamp\MyFinalProject\Entities1\obj\Debug\net8.0\Entities.d
 C:\Users\selin\Desktop\Kamp\MyFinalProject\Entities1\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\selin\Desktop\Kamp\MyFinalProject\Entities1\obj\Debug\net8.0\Entities.pdb
 C:\Users\selin\Desktop\Kamp\MyFinalProject\Entities1\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\Entities1\bin\Debug\net8.0\Core.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\Entities1\bin\Debug\net8.0\Core.pdb
+C:\Users\selin\Desktop\Kamp\MyFinalProject\Entities1\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\Kamp\MyFinalProject\Entities1\obj\Debug\net8.0\Entities.csproj.Up2Date

@@ -68,3 +68,5 @@ C:\Users\selin\Desktop\Kamp\MyFinalProject\ConsoleUI2\obj\Debug\net8.0\refint\Co
 C:\Users\selin\Desktop\Kamp\MyFinalProject\ConsoleUI2\obj\Debug\net8.0\ConsoleUI2.pdb
 C:\Users\selin\Desktop\Kamp\MyFinalProject\ConsoleUI2\obj\Debug\net8.0\ConsoleUI2.genruntimeconfig.cache
 C:\Users\selin\Desktop\Kamp\MyFinalProject\ConsoleUI2\obj\Debug\net8.0\ref\ConsoleUI2.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\ConsoleUI2\bin\Debug\net8.0\Core.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\ConsoleUI2\bin\Debug\net8.0\Core.pdb
