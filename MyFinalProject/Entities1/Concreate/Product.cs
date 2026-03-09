@@ -13,6 +13,6 @@ namespace Entities.Concreate
         public int CategoryId { get; set; }
         public string ProductName { get; set; } = null!;
         public short UnitsInstock { get; set; }
-        public decimal UnitsPrice { get; set; }
+        public decimal UnitPrice { get; set; }
     }
 }
