@@ -2800,6 +2800,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Core >= 1.0.0",
       "DataAccess >= 1.0.0",
       "Entities >= 1.0.0"
     ]
@@ -2832,6 +2833,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Core.csproj"
+            },
             "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
               "projectPath": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\DataAccess\\DataAccess.csproj"
             },

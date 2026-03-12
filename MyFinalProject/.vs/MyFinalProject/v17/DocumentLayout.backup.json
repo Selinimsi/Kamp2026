@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFC09DBA-71F4-46E3-8EDB-411BA05CEDBC}|ConsoleUI2\\ConsoleUI2.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\consoleui2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFC09DBA-71F4-46E3-8EDB-411BA05CEDBC}|ConsoleUI2\\ConsoleUI2.csproj|solutionrelative:consoleui2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\busniess\\concreate\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|solutionrelative:busniess\\concreate\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\busniess\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|solutionrelative:busniess\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\core\\utilities\\results\\concreate\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\concreate\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\core\\utilities\\results\\concreate\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\concreate\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\core\\utilities\\results\\abstract\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\abstract\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +42,76 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\ConsoleUI2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleUI2\\Program.cs",
-              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\ConsoleUI2\\Program.cs*",
-              "RelativeToolTip": "ConsoleUI2\\Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowB4AAAA7AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\ConsoleUI2\\Program.cs",
+              "RelativeToolTip": "ConsoleUI2\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewB4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T13:44:26.31Z",
+              "WhenOpened": "2026-03-12T16:56:07.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\Messages.cs",
+              "RelativeDocumentMoniker": "Busniess\\Concreate\\Messages.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\Messages.cs",
+              "RelativeToolTip": "Busniess\\Concreate\\Messages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:54:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuccessDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Concreate\\SuccessDataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\Concreate\\SuccessDataResult.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Concreate\\SuccessDataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\Concreate\\SuccessDataResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:39:38.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Busniess\\Concreate\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\ProductManager.cs",
+              "RelativeToolTip": "Busniess\\Concreate\\ProductManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:35:17.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataResult.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Concreate\\DataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\Concreate\\DataResult.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Concreate\\DataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\Concreate\\DataResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:35:01.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:34:16.979Z",
               "EditorCaption": ""
             }
           ]

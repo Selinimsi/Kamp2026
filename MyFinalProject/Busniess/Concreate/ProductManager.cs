@@ -1,4 +1,9 @@
 ﻿using Busniess.Abstract;
+using Busniess.Concreate;
+using Core.Utilities.Abstract.Results;
+using Core.Utilities.Conreate.Result;
+using Core.Utilities.Results.Abstract;
+using Core.Utilities.Results.Concreate;
 using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
 using Entities.Concreate;
@@ -20,26 +25,56 @@ namespace Busniess.Concrete
             _iproductDal = iproductDal;
         }
 
-        public List<Product> GetAll()
+        public IResult Add(Product product)
+        {
+            if (product.ProductName.Length < 2)
+            {
+                return new ErrorResult(Messages.ProductNameInvalied);
+            }
+            _iproductDal.Add(product);
+            return new Result(true,Messages.ProductAdded);
+        }
+
+        public IResult Delete(Product product)
+        {
+            _iproductDal.Delete(product);
+            return new Result(true, "ürün silindi");
+        }
+
+        public IDataResult<List<Product>> GetAll()
         {//iş kodları
+            if (DateTime.Now.Hour == 22)
+            {
+                return new ErrorDataResult<List<Product>>(Messages.MaintananceTime);
+                   
+            }
 
-
-            return _iproductDal.GetAll();
+            return new SuccessDataResult<List<Product>>(_iproductDal.GetAll(),Messages.ProductsListed);
         }
 
-        public List<Product> GetAllByCategoryId(int id)
+        public IDataResult<List<Product>> GetAllByCategoryId(int id)
         {
-            return _iproductDal.GetAll(p=>p.CategoryId == id);
+            return new SuccessDataResult<List<Product>>(_iproductDal.GetAll(p => p.CategoryId == id));
         }
 
-        public List<Product> GetAllByUnitPrice(decimal min, decimal max)
+        public IDataResult<List<Product>> GetAllByUnitPrice(decimal min, decimal max)
         {
-            return _iproductDal.GetAll(p => p.UnitPrice >= min && p.UnitPrice <= max);
+            return new SuccessDataResult<List<Product>>( _iproductDal.GetAll(p => p.UnitPrice >= min && p.UnitPrice <= max));
         }
 
-        public List<ProductDetailDto> GetProductDetails()
+        public IDataResult<Product> GetById(int productId)
         {
-            return _iproductDal.GetProductDetailDtos();
+            return new SuccessDataResult<Product>(_iproductDal.Get(p=>p.ProductId == productId));
+        }
+
+        public IDataResult<List<ProductDetailDto>> GetProductDetails()
+        {
+            return new SuccessDataResult<List<ProductDetailDto>>(_iproductDal.GetProductDetailDtos());
+        }
+
+        public IResult Update(Product product)
+        {
+            throw new NotImplementedException();
         }
     }
 }
