@@ -13,11 +13,14 @@ namespace Core.Utilities.Results.Concreate
         public DataResult(T data,bool success,string message):base(success,message)
         {
                 Data = data;
+          
         }
         public DataResult(T data, bool success) : base(success)
         {
-            Data = data;
+            Data=data;
         }
+        
+
         public T Data { get; }
     }
 }
