@@ -1,26 +1,27 @@
-﻿
-using Busniess.Abstract;
-using Busniess.Concrete;
-using DataAccess.Abstract;
-using DataAccess.Concrete.EntitiyFrameWork;
-
+﻿using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using Busniess.DependencyRecolvers;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 🔹 Startup.cs → ConfigureServices karşılığı
+// Autofac entegrasyonu
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+
+builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder =>
+{
+    containerBuilder.RegisterModule(new AutofacBusinessModule());
+});
+
+// Add services to the container.
 builder.Services.AddControllers();
 
-// Dependency Injection (EN ÖNEMLİ KISIM)
-builder.Services.AddScoped<IProductService, ProductManager>();
-builder.Services.AddScoped<IProductDal, EfProductDal>();
-
-// Swagger (isteğe bağlı ama genelde var)
+// Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// 🔹 Startup.cs → Configure karşılığı
+// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

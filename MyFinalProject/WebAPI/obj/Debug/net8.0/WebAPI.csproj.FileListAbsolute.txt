@@ -77,3 +77,10 @@ C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\obj\Debug\net8.0\refint\WebAPI
 C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\bin\Debug\net8.0\Autofac.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\selin\Desktop\Kamp\MyFinalProject\WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

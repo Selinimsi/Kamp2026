@@ -1,5 +1,6 @@
 ﻿using Busniess.Abstract;
 using Busniess.Concreate;
+using Busniess.ValidationRules.FluentValidation;
 using Core.Utilities.Abstract.Results;
 using Core.Utilities.Conreate.Result;
 using Core.Utilities.Results.Abstract;
@@ -8,11 +9,14 @@ using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
 using Entities.Concreate;
 using Entities.DTOs;
-using System;
+using FluentValidation;
+using System.ComponentModel.DataAnnotations;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Core.CrossCuttingConcers.Validation;
+using Core.Aspects.Autofac.Validation;
 
 namespace Busniess.Concrete
 {
@@ -24,15 +28,12 @@ namespace Busniess.Concrete
         {
             _iproductDal = iproductDal;
         }
-
+        [ValidationAspect(typeof(ProductValidatior))]
         public IResult Add(Product product)
         {
-            if (product.ProductName.Length < 2)
-            {
-                return new ErrorResult(Messages.ProductNameInvalied);
-            }
+            
             _iproductDal.Add(product);
-            return new Result(true,Messages.ProductAdded);
+            return new SuccessResult(Messages.ProductAdded);
         }
 
         public IResult Delete(Product product)

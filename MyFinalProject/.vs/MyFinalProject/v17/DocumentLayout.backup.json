@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFC09DBA-71F4-46E3-8EDB-411BA05CEDBC}|ConsoleUI2\\ConsoleUI2.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\consoleui2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFC09DBA-71F4-46E3-8EDB-411BA05CEDBC}|ConsoleUI2\\ConsoleUI2.csproj|solutionrelative:consoleui2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\busniess\\dependencyrecolvers\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|solutionrelative:busniess\\dependencyrecolvers\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9051B8C-7356-4631-BA23-878AF43258C2}|WebAPI\\WebAPI.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\webapi\\productcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9051B8C-7356-4631-BA23-878AF43258C2}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\productcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\core\\utilities\\results\\concreate\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\concreate\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\core\\utilities\\results\\abstract\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\abstract\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\busniess\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|solutionrelative:busniess\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\core\\aspects\\autofac\\validation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\validation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\busniess\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|solutionrelative:busniess\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\busniess\\concreate\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|solutionrelative:busniess\\concreate\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\core\\crosscuttingconcers\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA0E6E9-4F07-4159-B7ED-9149A3208EA5}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcers\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|c:\\users\\selin\\desktop\\kamp\\myfinalproject\\busniess\\validationrules\\fluentvalidation\\productvalidatior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94E9F7F-9FE4-4AB0-BC91-DEF258E48309}|Busniess\\Busniess.csproj|solutionrelative:busniess\\validationrules\\fluentvalidation\\productvalidatior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\ConsoleUI2\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleUI2\\Program.cs",
-              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\ConsoleUI2\\Program.cs",
-              "RelativeToolTip": "ConsoleUI2\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIA3wCAAAABKAAAAAAAAAA==",
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\DependencyRecolvers\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Busniess\\DependencyRecolvers\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\DependencyRecolvers\\AutofacBusinessModule.cs*",
+              "RelativeToolTip": "Busniess\\DependencyRecolvers\\AutofacBusinessModule.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T15:21:24.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataResult.cs",
-              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Concreate\\DataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\Concreate\\DataResult.cs",
-              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Concreate\\DataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\Concreate\\DataResult.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T15:04:50.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IDataResult.cs",
-              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
-              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T14:59:56.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Abstract\\IProductService.cs",
-              "RelativeDocumentMoniker": "Busniess\\Abstract\\IProductService.cs",
-              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Abstract\\IProductService.cs",
-              "RelativeToolTip": "Busniess\\Abstract\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T14:58:40.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Messages.cs",
-              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\Messages.cs",
-              "RelativeDocumentMoniker": "Busniess\\Concreate\\Messages.cs",
-              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\Messages.cs",
-              "RelativeToolTip": "Busniess\\Concreate\\Messages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T14:58:28.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\ProductManager.cs",
-              "RelativeDocumentMoniker": "Busniess\\Concreate\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\ProductManager.cs",
-              "RelativeToolTip": "Busniess\\Concreate\\ProductManager.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T14:58:22.174Z",
+              "WhenOpened": "2026-03-18T12:06:00.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductControler.cs",
-              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\WebAPI\\ProductControler.cs",
-              "RelativeDocumentMoniker": "WebAPI\\ProductControler.cs",
-              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\WebAPI\\ProductControler.cs",
-              "RelativeToolTip": "WebAPI\\ProductControler.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIBAwAAAAAAAAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Aspects\\Autofac\\Validation\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Validation\\Class1.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Aspects\\Autofac\\Validation\\Class1.cs*",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Validation\\Class1.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T14:58:03.107Z",
+              "WhenOpened": "2026-03-18T11:52:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AspectInterceptorSelector.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "RelativeToolTip": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAxwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:12:34.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationTool.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\CrossCuttingConcers\\Validation\\ValidationTool.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcers\\Validation\\ValidationTool.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Core\\CrossCuttingConcers\\Validation\\ValidationTool.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcers\\Validation\\ValidationTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:37:08.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Busniess\\Concreate\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\Concreate\\ProductManager.cs*",
+              "RelativeToolTip": "Busniess\\Concreate\\ProductManager.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:35:22.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductValidatior.cs",
+              "DocumentMoniker": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\ValidationRules\\FluentValidation\\ProductValidatior.cs",
+              "RelativeDocumentMoniker": "Busniess\\ValidationRules\\FluentValidation\\ProductValidatior.cs",
+              "ToolTip": "C:\\Users\\selin\\Desktop\\Kamp\\MyFinalProject\\Busniess\\ValidationRules\\FluentValidation\\ProductValidatior.cs",
+              "RelativeToolTip": "Busniess\\ValidationRules\\FluentValidation\\ProductValidatior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:35:10.787Z",
               "EditorCaption": ""
             }
           ]
