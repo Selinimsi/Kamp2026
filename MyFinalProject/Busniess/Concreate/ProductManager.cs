@@ -31,9 +31,15 @@ namespace Busniess.Concrete
         [ValidationAspect(typeof(ProductValidatior))]
         public IResult Add(Product product)
         {
-            
-            _iproductDal.Add(product);
-            return new SuccessResult(Messages.ProductAdded);
+            if (CheckIfProductCountOfCategoryCorrect(product.CategoryId).Success){
+                if (CheckIfProductNameExists(product.ProductName).Success)
+                {
+                    _iproductDal.Add(product);
+                    return new SuccessResult(Messages.ProductAdded);
+                }
+                   
+            }
+           return new ErrorResult();
         }
 
         public IResult Delete(Product product)
@@ -72,10 +78,34 @@ namespace Busniess.Concrete
         {
             return new SuccessDataResult<List<ProductDetailDto>>(_iproductDal.GetProductDetailDtos());
         }
-
+        [ValidationAspect(typeof(ProductValidatior))]
         public IResult Update(Product product)
         {
-            throw new NotImplementedException();
+            if (CheckIfProductCountOfCategoryCorrect(product.CategoryId).Success)
+            {
+                _iproductDal.UpDate(product);
+                return new SuccessResult(Messages.ProductUpdated);
+            }
+            return new ErrorResult();
+        }
+
+        private IResult CheckIfProductCountOfCategoryCorrect(int categoryId )
+        {
+            var result=_iproductDal.GetAll(p=>p.CategoryId==categoryId).Count;
+            if (result >= 10) {
+                return new ErrorResult(Messages.ErrorOfCategoryCount);
+            }
+            return new SuccessResult();
+        }
+
+        private IResult CheckIfProductNameExists(string productName)
+        {
+            var result = _iproductDal.GetAll(p => p.ProductName == productName).Any();
+            if (result)
+            {
+                return new ErrorResult(Messages.ProductNameAlreadyExists);
+            }
+            return new SuccessResult();
         }
     }
 }
